@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.exe
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.deps.json
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.runtimeconfig.json
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.runtimeconfig.dev.json
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.dll
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\ref\kurucu metotlar.dll
+D:\yazılım\pratikler\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.pdb
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.AssemblyInfo.cs
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.dll
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\ref\kurucu metotlar.dll
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.pdb
+D:\yazılım\pratikler\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.genruntimeconfig.cache
